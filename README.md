@@ -7,12 +7,18 @@ This is a simple weather application that allows users to check the current weat
 - **Current Weather**: View the current weather conditions, including temperature, humidity, wind speed, and more.
 - **Location Search**: Enter the name of a city or location to get the weather forecast.
 
+## Live Demo
+
+Check out the live demo [here](https://climate-watch.netlify.app/).
+
+
 ## Usage
 
-1. **Installation**: Clone this repository to your local machine.
+ **Installation**: Clone this repository to your local machine.
 
-  git clone <>
-  4. **Usage**: Open the application in your web browser and enter the location you want to check the weather for.
+  git clone :  <https://github.com/AMISHA1703/Climate-Watch.git>
+   
+**Usage**: Open the application in your web browser and enter the location you want to check the weather for.
 
 ## Technologies Used
 
@@ -32,3 +38,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
